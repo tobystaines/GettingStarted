@@ -1,0 +1,6 @@
+testpatient,patient,Patient,Test,Patient
+testadmin,admin,Admin,Test,Admin
+testdoctor,doctor,Doctor,Test,Doctor
+tobystaines,toby,Admin,Toby,Staines
+georgecarr,george,Patient,George,Carr
+hannahmaguire,hannah,Patient,Hannah,Maguire
